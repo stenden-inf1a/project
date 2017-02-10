@@ -1,5 +1,5 @@
 ## Synopsis
-This repository is used for: project Battlebot. Battlebot is a school project from Stenden University, with the goal to teach Arduino programming and devlopping a bigger skillset in computer networking.
+This repository is used for: **_project Battlebot_**. Battlebot is a school project from _Stenden University_, with the goal to teach Arduino programming and devlopping a bigger skillset in computer networking.
 
 ## Project goal
 The goal of the project is to make the battlebot do challenges through a web interface. The challenges the battlebot has to face are yet to
