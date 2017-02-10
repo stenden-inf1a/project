@@ -18,10 +18,10 @@ Our battlebot is based on the Arduino Uno. It contains the following modules:
 ![Battlebot](http://i.imgur.com/6JoS4ZX.jpg)
 
 ## Important links
-[Contact](https://github.com/stenden-inf1a/project/blob/master/Documentation/Contact.md)
+[Authors](https://github.com/stenden-inf1a/project/blob/master/Documentation/Contact.md)
 
 ## Licencing: General Public Licence version 3
-> Portefolio CMS - An simple CMS system for managing digital portfolios.
+> Project Battlebot.
 > Copyright (C) 2016 To the Authors above.
 
 > This program is free software: you can redistribute it and/or modify
