@@ -2,7 +2,7 @@
 This repository is contains the source code for: **_project Battlebot_**.
 Battlebot is a school project from _Stenden University_ executed by group INF1A,
 with the goal to teach Arduino programming and devlopping a bigger skillset in
-computer networking.<br>
+computer networking.<br><br>
 Information and Documentation can be found here: <br>
 [Authors](https://github.com/stenden-inf1a/project/blob/master/Documentation/Contact.md)<br>
 [About the Arduino](https://github.com/stenden-inf1a/project/blob/master/Documentation/Battlebot.md)<br>
