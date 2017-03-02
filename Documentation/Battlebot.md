@@ -11,4 +11,4 @@ Our battlebot is based on the Arduino Uno. It contains the following modules:
 ## Team 1
 ![Battlebot team 1](http://i.imgur.com/bOVJjdZ.jpg)
 ## Team 2
-![Battlebot team 2](http://i.imgur.com/6JoS4ZX.jpg)
+![Battlebot team 2](http://i.imgur.com/i5cLe1O.jpg)
