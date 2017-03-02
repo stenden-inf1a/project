@@ -8,12 +8,14 @@ Information and Documentation can be found here: <br>
 [About the Arduino](https://github.com/stenden-inf1a/project/blob/master/Documentation/Battlebot.md)
 
 ## Project goal
-The goal of the project is to make the battlebot do challenges through a web interface. The challenges the battlebot has to face are yet to
-be a announced.<br>
+The goal of the project is to autonomously complete 4 challenges. The only control is through
+our web interface where after a challenges is completed we can manually line up the Battlebot
+for the next challenge. At the end of the 10 week project all 16 total Battlebots will compete
+in a competition hosted by the university. The challenges can be found below.<br>
 [Challenges](https://github.com/stenden-inf1a/project/blob/master/Documentation/Challenges.md)
 
 ##Subgroups
-The project group is divided into 2 subgroups both working on their own Battlebot. The goal with this is to create a competitive evironment to get the best results in the competition.
+The project group is divided into 2 subgroups both working on their own Battlebot. The goal with this is to create a competitive evironment to get the best results in the competition. Both groups create their own code to complete the challenges as good as possible.
 
 ###Group 1
 - Leon Hans
