@@ -1,7 +1,7 @@
 # Project Battlebot
 This repository is contains the source code for: **project Battlebot**.
 Battlebot is a school project from _Stenden University_ executed by group INF1A,
-with the goal to teach Arduino programming and devlopping a bigger skillset in
+with the goal to teach Arduino programming and developping a bigger skillset in
 computer networking.<br><br>
 Information and Documentation can be found here: <br>
 [Authors](https://github.com/stenden-inf1a/project/blob/master/Documentation/Contact.md)<br>
@@ -17,12 +17,12 @@ in a competition hosted by the university. The challenges can be found below.<br
 ##Subgroups
 The project group is divided into 2 subgroups both working on their own Battlebot. The goal with this is to create a competitive evironment to get the best results in the competition. Both groups create their own code to complete the challenges as good as possible.
 
-###Group 1
+####Group 1
 - Leon Hans
 - Robin de Boer
 - Kevin Veldman
 
-###Group 2
+####Group 2
 - Alwin Kroesen
 - Bram Buist
 - Jimmy Habing
