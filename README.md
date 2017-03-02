@@ -5,11 +5,25 @@ with the goal to teach Arduino programming and devlopping a bigger skillset in
 computer networking.<br>
 Information and Documentation can be found here: <br>
 [Authors](https://github.com/stenden-inf1a/project/blob/master/Documentation/Contact.md)<br>
-[About the Arduino](https://github.com/stenden-inf1a/project/blob/master/Documentation/Battlebot.md)
+[About the Arduino](https://github.com/stenden-inf1a/project/blob/master/Documentation/Battlebot.md)<br>
+[Challenges](https://github.com/stenden-inf1a/project/blob/master/Documentation/Challenges.md)
 
 ## Project goal
 The goal of the project is to make the battlebot do challenges through a web interface. The challenges the battlebot has to face are yet to
 be a announced.
+
+##Subgroups
+The project group is divided into 2 subgroups both working on their own Battlebot. The goal with this is to create a competitive evironment to get the best results in the competition.
+
+###Group 1
+- Leon Hans
+- Robin de Boer
+- Kevin Veldman
+
+###Group 2
+- Alwin Kroesen
+- Bram Buist
+- Jimmy Habing
 
 ## Licencing: General Public Licence version 3
 > Project Battlebot.
