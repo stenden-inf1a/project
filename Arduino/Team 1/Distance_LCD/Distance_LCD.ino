@@ -29,8 +29,8 @@ void setup()
  
 // Switch on the backlight
 lcd.setBacklightPin(BACKLIGHT_PIN,POSITIVE);
-lcd.setBacklight(HIGH);
-lcd.home (); // go home
+lcd.setBacklight(HIGH);         //Switch on backlight
+lcd.clear();                    //Go home
 
 
 }
@@ -38,13 +38,12 @@ lcd.home (); // go home
 void loop()
 {
   if(sonar.ping_cm() != 0){ 
-  lcd.setCursor (0,0); 
-  lcd.print(sonar.ping_cm());
-  lcd.print("cm");
-  delay(100);
-  lcd.print("                ");
-  lcd.setCursor (0,1); 
-  lcd.setBacklight(HIGH);     // Backlight on
-  lcd.print("Fuck team 2"); 
+  lcd.print(sonar.ping_cm());    //Display sonar distance on screen
+  lcd.print("cm");          
+  lcd.setCursor (0,1);           //Switch to line 2 
+  lcd.print("Fuck team 2");      //Message on line 2
+  lcd.clear();
+    
+  delay(100);                    
 }
 }
