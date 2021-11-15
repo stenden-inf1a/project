@@ -1,3 +1,5 @@
+# Wordt verwijderd
+Ik ga deze repo en organisatie verwijderen. Mocht je belang bij de code hebben, download die dan.
 # Project Battlebot
 This repository is contains the source code for: **project Battlebot**.
 Battlebot is a school project from _Stenden University_ executed by group INF1A,
